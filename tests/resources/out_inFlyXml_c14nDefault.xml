@@ -1,0 +1,1 @@
+<doc><b:doc1 xmlns:b="http://b" attr="attr1"><doc11 xmlns:a="http://a" a:attr="attr2"></doc11></b:doc1></doc>

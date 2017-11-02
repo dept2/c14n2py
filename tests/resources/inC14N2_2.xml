@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<doc>
+   <clean>   </clean>
+   <dirty xml:space="preserve">   Ю   Я   </dirty>
+   <mixed>
+      Ю
+      <clean>   </clean>
+      Я
+      <dirty>   Ю   Я   </dirty>
+      Э
+   </mixed>
+</doc>

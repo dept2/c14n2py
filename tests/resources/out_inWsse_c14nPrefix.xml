@@ -1,0 +1,8 @@
+<n0:Security xmlns:n0="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+<n0:UserName xmlns:n1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" n1:Id="i1">
+...
+</n0:UserName>
+<n0:Timestamp xmlns:n1="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" n1:Id="i2">
+...
+</n0:Timestamp>
+</n0:Security>

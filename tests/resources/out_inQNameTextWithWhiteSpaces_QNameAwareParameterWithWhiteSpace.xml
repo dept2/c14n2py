@@ -1,0 +1,1 @@
+<n1:Relations xmlns:n0="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:n1="http://xsd.gspvd/v001/addressing" n0:Id="Relations"><n1:RelatesTo><n1:ReferenceQName xmlns:n2="http://schemas.xmlsoap.org/soap/envelope/">n2:Form</n1:ReferenceQName><n1:MessageID>1000200012015070600000503</n1:MessageID></n1:RelatesTo></n1:Relations>
