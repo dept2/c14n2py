@@ -16,9 +16,16 @@ Most of the test cases can be found on page:
 
 note: XML DTD mostly unsupported by python xml library, thus all the test cases with dtd involved are failed
 
+# Running tests:
+```
+    $ git clone https://github.com/dept2/c14n2py
+    $ cd c14n2py
+    $ ./test.py
+```
+
 # Installation:
 ```
-    pip install https://github.com/dept2/c14n2py
+    $ pip install https://github.com/dept2/c14n2py
 ```
 
 # Example of usage:
