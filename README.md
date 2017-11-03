@@ -14,6 +14,8 @@ Most of the test cases can be found on page:
 * supports canonization with or without comment removal
 * supports canonization with or without prefix rewriting
 
+note: XML DTD mostly unsupported by python xml library, thus all the test cases with dtd involved are failed
+
 # Installation:
 ```
     pip install https://github.com/dept2/c14n2py
